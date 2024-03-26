@@ -1,5 +1,5 @@
 class programm{
-	static void main(string args[]){
+	static int main(string args[]){
 		
 	}
 }
